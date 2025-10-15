@@ -6,9 +6,6 @@
   - [ Project Index](#-project-index)
 - [ Getting Started](#-getting-started)
   - [ Prerequisites](#-prerequisites)
-  - [ Installation](#-installation)
-  - [ Usage](#-usage)
-  - [ Testing](#-testing)
 - [ Contributing](#-contributing)
 - [ License](#-license)
 
@@ -80,40 +77,7 @@ The Soon project elegantly tackles the anticipation of upcoming events with a st
 
 Before getting started with Soon, ensure your runtime environment meets the following requirements:
 
-- **Programming Language:** CSS
-
-
-###  Installation
-
-Install Soon using one of the following methods:
-
-**Build from source:**
-
-1. Clone the Soon repository:
-```sh
-❯ git clone https://github.com/ReisProduction/Soon
-```
-
-2. Navigate to the project directory:
-```sh
-❯ cd Soon
-```
-
-3. Install the project dependencies:
-
-echo 'INSERT-INSTALL-COMMAND-HERE'
-
-
-
-###  Usage
-Run Soon using the following command:
-echo 'INSERT-RUN-COMMAND-HERE'
-
-###  Testing
-Run the test suite using the following command:
-echo 'INSERT-TEST-COMMAND-HERE'
-
----
+- **Programming Languages:** HTML, CSS and JS
 
 ##  Contributing
 
